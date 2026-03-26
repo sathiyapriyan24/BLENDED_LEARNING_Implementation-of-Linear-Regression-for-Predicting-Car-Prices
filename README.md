@@ -95,11 +95,10 @@ plt.tight_layout()
 ```
 
 ## Output:
-
+<img width="261" height="253" alt="Image" src="https://github.com/user-attachments/assets/a04f982b-b917-4bc6-a447-46989506296f" />
 <img width="1317" height="652" alt="Image" src="https://github.com/user-attachments/assets/182c50f5-bf43-4d9d-9a37-dd2e077f8c20" />
 <img width="725" height="577" alt="Image" src="https://github.com/user-attachments/assets/be21172a-296b-4fb8-8f57-115c536891ce" />
 <img width="677" height="565" alt="Image" src="https://github.com/user-attachments/assets/17791e8f-74ee-41b6-9000-85b5c0214fee" />
-<img width="261" height="253" alt="Image" src="https://github.com/user-attachments/assets/a04f982b-b917-4bc6-a447-46989506296f" />
 <img width="1213" height="566" alt="Image" src="https://github.com/user-attachments/assets/280df1f2-31dc-4fc6-8fca-4c2fbceaec28" />
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
